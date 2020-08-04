@@ -4,7 +4,7 @@ public class DBHelper {
 
     public static final String URL = "jdbc:mysql://47.112.112.79:3306/TestDB";
     public static final String USER = "root";
-    public static final String PASSWORD = "amberlo89631139";
+    public static final String PASSWORD = "";
 
     public static void main(String[] args) {
         connect();
